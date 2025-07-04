@@ -40,8 +40,10 @@ function listAllValues(myObj){
 
 // map | filter | reduce
 
-let a =Riya;
-let b =Priya;
-let c = `${a} and ${b} are sisters `
-console.log("c");
+// let a =Riya;
+// let b =Priya;
+// let c = `${a} and ${b} are sisters `
+// console.log("c");
 
+let str = "Rahul";
+console.log(str.toUpperCase());
