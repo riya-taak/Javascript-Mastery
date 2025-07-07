@@ -50,3 +50,6 @@ console.log(str.toUpperCase());
 console.log(str.toLowerCase());
 
 // this code is in the stage branch ....
+
+
+// This git hub is javascript-Mastery
