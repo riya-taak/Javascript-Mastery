@@ -11,3 +11,8 @@ console.log("The lengtth of marks_class_12 is",marks_class_12.length)
 marks_class_12[6] = 100 //Adding a new value to the array
 marks_class_12[0] = 189 //changing the value of an array
 consloe.log (marks_class_12) 
+
+// Array methods 
+let num =[1,5,4,7,8]
+let A = num.toString // B is now a string
+console.log(b)
