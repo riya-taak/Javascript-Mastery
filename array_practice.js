@@ -16,3 +16,27 @@ consloe.log (marks_class_12)
 let num =[1,5,4,7,8]
 let A = num.toString // B is now a string
 console.log(b)
+           
+        // num.join  -> join all the array elements using a saprator 
+        let n =num.join("_")
+        console.log(n)
+
+        //num.pop     ->remove last element from tha array
+        let m= num.pop
+        console.log(m)
+
+        //num.push    -> add a new element at the end of array
+        let p=num.push
+        console.log(p)
+
+        //num.shift  -> remove first element and return it
+        let r= num.shift
+        console.log(r)
+
+        //num.unshift
+        let u=num.unshift
+        console.log(u)
+
+        //num.delete
+        let d= num.delete(1)
+        console.log(d)
