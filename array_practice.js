@@ -10,33 +10,17 @@ console.log(marks_class_12[6]) //wil be undefined because index 6 does not exits
 console.log("The lengtth of marks_class_12 is",marks_class_12.length)
 marks_class_12[6] = 100 //Adding a new value to the array
 marks_class_12[0] = 189 //changing the value of an array
-consloe.log (marks_class_12) 
+console.log (marks_class_12) 
 
 // Array methods 
-let num =[1,5,4,7,8]
-let A = num.toString // B is now a string
-console.log(b)
-           
-        // num.join  -> join all the array elements using a saprator 
-        let n =num.join("_")
-        console.log(n)
+let num = 123;
+let str = num.toString();
+console.log(str);           // "123"
+console.log(typeof str);    // "string"
 
-        //num.pop     ->remove last element from tha array
-        let m= num.pop
-        console.log(m)
-
-        //num.push    -> add a new element at the end of array
-        let p=num.push
-        console.log(p)
-
-        //num.shift  -> remove first element and return it
-        let r= num.shift
-        console.log(r)
-
-        //num.unshift
-        let u=num.unshift
-        console.log(u)
-
-        //num.delete
-        let d= num.delete(1)
-        console.log(d)
+        //num.concat
+        let num1=[45,67,89,60,47]
+        let num2=[35,8,6,4,9,0]
+        let ar = num.concat(num1,num2)
+        console.log(ar)
+        
