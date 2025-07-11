@@ -24,3 +24,7 @@ console.log(typeof str);    // "string"
         let ar = num.concat(num1,num2)
         console.log(ar)
         
+       // num.slice(3)
+        //console.log(num)
+
+        
