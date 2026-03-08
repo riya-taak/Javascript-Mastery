@@ -9,6 +9,8 @@ console.log(a + " Riya");
 
 // for of = []
 
+// primitive or non-primitive
+
 let obj1 = {
     name: 'Riya',
     age: 20,
