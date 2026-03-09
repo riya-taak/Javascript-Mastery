@@ -58,13 +58,16 @@
 
 // prompt 
 //if else statement
-let a = prompt("Hey! what i syour age");
-a = Number.parseInt(a);
-if(a>0)
-{
-    alert("This is a valid age");
-}
-else
-{
-    alert("This is not valid age");
-}
+// let a = prompt("Hey! what i syour age");
+// a = Number.parseInt(a);
+// if(a>0)
+// {
+//     alert("This is a valid age");
+// }
+// else
+// {
+//     alert("This is not valid age");
+// }
+
+// ternery opertor
+// console.log("you can",a<18? "not drive":"drive" );
