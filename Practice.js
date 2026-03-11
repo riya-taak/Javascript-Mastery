@@ -100,3 +100,16 @@
 //     console.log("invalid day");
 //     }
 
+//let age = prompt("what is you age ?");
+//if(age<10 && age>20)
+//{
+  //  console.log("your age lie between 10 oe 20");
+//}
+//else{
+  //  console.log("your age does not lie between 10 or 20");
+//}
+let age =12;
+
+let a= age>18? "you are drived":"you cannot be drived"
+console.log(a);
+
