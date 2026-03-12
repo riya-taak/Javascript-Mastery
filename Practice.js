@@ -40,7 +40,7 @@
 
 // forEach 
 
-// map | filter | reduce
+// map | filter | reduce ------------------------------------------------------------------------------
 
 // let a =Riya;
 // let b =Priya;
@@ -56,7 +56,7 @@
 
 // This git hub is javascript-Mastery
 
-// prompt 
+// prompt ----------------------------------------------------------------------------------------
 //if else statement
 // let a = prompt("Hey! what i syour age");
 // a = Number.parseInt(a);
@@ -69,10 +69,10 @@
 //     alert("This is not valid age");
 // }
 
-// ternery opertor
+// ternery opertor----------------------------------------------------------------------------------
 // console.log("you can",a<18? "not drive":"drive" );
 
-//switch case
+//switch case--------------------------------------------------------------------------------------
 // let day =8;
 // switch(day)
 // {
@@ -108,8 +108,14 @@
 //else{
   //  console.log("your age does not lie between 10 or 20");
 //}
-let age =12;
+// let age =12;
 
-let a= age>18? "you are drived":"you cannot be drived"
-console.log(a);
+// let a= age>18? "you are drived":"you cannot be drived"
+// console.log(a);
 
+
+// for loop--------------------------------------------------------------------------
+for(let i =0;i<5;i++)
+{
+  console.log(i);
+}
